@@ -1,2 +1,2 @@
-# css
+# Initial Device
 &lt;meta name="viewport" content="width=device-width, initial-scale=1">
